@@ -26,9 +26,7 @@ The Apex Central School website provides students, parents, and visitors with es
 
 ## 📸 Website Preview
 
-<p align="center">
-  <img src="./images/apex-homepage.png" alt="Apex Central School Website Homepage" width="100%">
-</p>
+
 
 ---
 
