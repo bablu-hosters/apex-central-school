@@ -165,19 +165,9 @@ apex-central-school/
     └── smart-classroom.png
 ```
 
-### 📌 How to add the images
 
-Take the required screenshots/images from your website and upload them to the **`images`** folder with the filenames shown above.
 
-For example:
 
-```markdown
-<img src="./images/campus.png" alt="Apex Central School Campus" width="400">
-```
-
-GitHub will automatically display the image from your repository.
-
----
 
 ## 🎯 Project Objective
 
