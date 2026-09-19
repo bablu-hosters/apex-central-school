@@ -18,7 +18,7 @@
   </a>
 </p>
 
-🔗 **Website:** https://apexcentralschool.netlify.app/
+🔗 **Website:** https://apexcentralschool.com/
 
 The Apex Central School website provides students, parents, and visitors with essential information about the school, its administration, achievements, facilities, classes, and contact details.
 
